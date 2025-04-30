@@ -1,12 +1,10 @@
 # 🦦 임혁
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasimuleo&count_bg=%235B803F&title_bg=%23555555&icon=hurriyetemlak.svg&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false"/></a>
-
 ## :paw_prints: My Life's Footprint
 
 | Type |       Date        |     Name      |                Organization                |
 |:----:|:-----------------:|:-------------:|:------------------------------------------:|
-|  교육  |     2024.05 ~     | 삼성 청년 SW 아카데미 |      [SSAFY](https://www.ssafy.com/)       |
+|  교육  | 2024.05 ~ 2025.04 | 삼성 청년 SW 아카데미 |      [SSAFY](https://www.ssafy.com/)       |
 |  군대  | 2023.10 ~ 2024.05 |  전술C4I 운용/정비  |                     육군                     |
 |  회사  | 2022.09 ~ 2023.10 |    백엔드 개발자    | [웰로(Wello)](https://www.welfarehello.com/) |
 | 동아리  | 2021.03 ~ 2022.06 | LOOKIE 상명대학교  |   [SK LOOKIE](https://www.sklookie.com/)   |
